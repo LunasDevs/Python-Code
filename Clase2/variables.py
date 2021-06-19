@@ -1,0 +1,10 @@
+como = True
+se = 5
+cuestiona = 7.555
+la = se + cuestiona
+vida = False
+uno = como or vida
+en = "Hacer lo que sé"
+este = "Cali"
+momento = True
+preciso = momento and vida
